@@ -31,7 +31,7 @@ This project demonstrates how Salesforce can improve customer support through cu
 The project uses sample records to demonstrate object relationships, case details, AI Summary generation, and reporting.
 
 ## Demo
-Add the shareable project demonstration video link here.
+(https://drive.google.com/file/d/1DfMbKwuVlRufZ6zj12HKKYJwz0nWRVj6/view)
 
 ## Tools and Platform
 - Salesforce Lightning Experience
